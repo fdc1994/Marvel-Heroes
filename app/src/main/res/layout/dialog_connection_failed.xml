@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+
+    android:background="@color/grey">
+
+
+   <ImageView
+
+       android:id="@+id/image_connection"
+       android:src="@drawable/stark_industries"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_marginStart="10dp"
+       android:layout_marginEnd="10dp"
+       android:contentDescription="No Connection Image">
+
+   </ImageView>
+
+    <TextView
+        android:id="@+id/tv_connection_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@color/grey"
+        android:fontFamily="@font/source_sans_pro_light"
+
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:text="@string/no_server_connection"/>
+
+    <Button
+        android:id="@+id/btn_retry_connection"
+        android:layout_marginTop="10dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text = "@string/retry_connection"
+        >
+
+    </Button>
+</LinearLayout>
+
+    <!--END-->

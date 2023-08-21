@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FavoritesState">
+        <attr name="state_is_favorite" format="boolean"/>
+    </declare-styleable>
+</resources>

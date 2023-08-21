@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_layouts">
+        <item>@drawable/rotation_iron_man</item>
+        <item>@drawable/rotation_thor</item>
+        <item>@drawable/rotation_spider_man</item>
+        <item>@drawable/rotation_doctor_strange</item>
+        <item>@drawable/rotation_hulk</item>
+        <item>@drawable/rotation_captain_america</item>
+    </array>
+
+</resources>

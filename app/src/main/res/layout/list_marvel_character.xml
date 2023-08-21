@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_parent_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/grey"
+
+    android:orientation="vertical">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/grey"
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_view_hero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="5dp"
+            app:cardCornerRadius="4dp"
+            app:cardElevation="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/marvel_image_main"
+                android:transitionName="shared_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:contentDescription="@string/image_view_description" />
+
+        </androidx.cardview.widget.CardView>
+
+
+        <ImageView
+            android:id="@+id/favourites_button_main"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/favourites_button"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/marvel_character_title">
+
+        </ImageView>
+
+
+        <TextView
+            android:id="@+id/marvel_character_title"
+            android:transitionName="charTitle2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/source_sans_pro_light"
+            android:gravity="center"
+            android:padding="5dp"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/favourites_button_main"
+            app:layout_constraintStart_toEndOf="@+id/card_view_hero"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="test" />
+
+        <ImageView
+            android:id="@+id/arrow_button"
+            android:layout_width="50dp"
+            android:layout_height="0dp"
+            android:src="@drawable/ic_baseline_arrow_forward_ios_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/marvel_character_title"
+            app:layout_constraintTop_toBottomOf="@id/favourites_button_main"
+            android:padding="10dp">
+
+        </ImageView>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/orange" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:orientation="vertical"
+    android:tag="DetailsFragment"
+    tools:context=".fragments.heroDetailsFragment.ComicDetailsFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/favourites_button_details"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_gravity="end"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/favourites_button"
+                    ></ImageView>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/marvel_character_title"
+                android:transitionName="charTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_marginBottom="5dp"
+                android:fontFamily="@font/source_sans_pro_extra_light"
+                android:gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                tools:text="test" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                app:cardCornerRadius="4dp"
+                app:cardElevation="10dp">
+
+                <ImageView
+                    android:id="@+id/marvel_image"
+                    android:layout_width="300dp"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+android:transitionName="hero_image"
+                    android:contentDescription="@string/image_view_description" />
+
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/marvel_character_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/source_sans_pro_extra_light"
+                android:gravity="center_horizontal"
+                android:padding="10dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                tools:text="test" />
+
+            <LinearLayout
+                android:id="@+id/progressInfo"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    style="?android:attr/progressBarStyle"
+                    android:layout_width="200dp"
+                    android:layout_height="110dp"
+                    android:layout_gravity="center_vertical"
+                    android:indeterminateDrawable="@drawable/rotation_spider_man" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/source_sans_pro_extra_light"
+                    android:text="@string/please_wait"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="28sp" />
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/character_details_recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="vertical"
+                android:visibility="gone"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager">
+
+            </androidx.recyclerview.widget.RecyclerView>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

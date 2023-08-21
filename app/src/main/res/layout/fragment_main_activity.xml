@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:animateLayoutChanges="true"
+    android:tag="HeroesFragment"
+    tools:context=".activities.MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tv_no_results"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_results_please_try_again"
+            android:textColor="@color/white"
+            android:fontFamily="@font/source_sans_pro_light"
+            android:visibility="gone"
+            android:textSize="20sp"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/marvel_char_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:scrollbars="vertical"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:orientation="vertical"
+            app:spanCount="2"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/progressBar"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <ProgressBar
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@color/grey"
+            android:indeterminateDrawable="@drawable/rotation_marvel" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="@string/fetching_information"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            >
+
+        </TextView>
+    </LinearLayout>
+</FrameLayout>

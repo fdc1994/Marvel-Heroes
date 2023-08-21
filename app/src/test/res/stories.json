@@ -1,0 +1,2038 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2021 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+  "etag": "a9d95e892b8aa800780572d24f634eaa4cb5101a",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 3368,
+    "count": 20,
+    "results": [
+      {
+        "id": 477,
+        "title": "Cover #477",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/477",
+        "type": "cover",
+        "modified": "2019-08-09T15:03:42-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/477/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/477/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+              "name": "Apocalypse"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+              "name": "Colossus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+              "name": "Magneto"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010967",
+              "name": "Rogue (Age of Apocalypse)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/477/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/348",
+              "name": "X-Men: Age of Apocalypse One Shot (2005)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/477/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1930",
+              "name": "X-Men: Age of Apocalypse One Shot (2005)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/477/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1930",
+          "name": "X-Men: Age of Apocalypse One Shot (2005)"
+        }
+      },
+      {
+        "id": 594,
+        "title": "X-MEN (2004) #164",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/594",
+        "type": "cover",
+        "modified": "2017-02-23T14:53:31-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/594/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/594/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/594/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/594/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/11",
+              "name": "X-Men (2004) #164"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/594/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/11",
+          "name": "X-Men (2004) #164"
+        }
+      },
+      {
+        "id": 608,
+        "title": "Cover #608",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/608",
+        "type": "cover",
+        "modified": "2020-02-04T11:16:43-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/608/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/608/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009327",
+              "name": "Jean Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011271",
+              "name": "New X-Men"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/608/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1807",
+              "name": "New X-Men (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2281",
+              "name": "New X-Men (2001 - 2004)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/339",
+              "name": "New X-Men Vol. 7: Planet X GN-TPB (2011)"
+            }
+          ],
+          "returned": 3
+        },
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/608/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5451",
+              "name": "New X-Men (Hardcover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/420",
+              "name": "New X-Men (2001) #154"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1288",
+              "name": "New X-Men Vol. 7: Planet X GN-TPB (Graphic Novel)"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/608/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/420",
+          "name": "New X-Men (2001) #154"
+        }
+      },
+      {
+        "id": 614,
+        "title": "X-MEN (2004) #159",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/614",
+        "type": "cover",
+        "modified": "2017-02-23T12:11:32-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/614/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/614/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/614/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/614/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/528",
+              "name": "X-Men (2004) #159"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/614/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/528",
+          "name": "X-Men (2004) #159"
+        }
+      },
+      {
+        "id": 616,
+        "title": "X-MEN (2004) #157",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/616",
+        "type": "cover",
+        "modified": "2017-02-22T16:21:34-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/616/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/616/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/616/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/616/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/659",
+              "name": "X-Men (2004) #157"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/616/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/659",
+          "name": "X-Men (2004) #157"
+        }
+      },
+      {
+        "id": 618,
+        "title": "X-MEN (2004) #158",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/618",
+        "type": "cover",
+        "modified": "2017-02-23T12:10:56-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/618/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/618/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/618/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/618/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/720",
+              "name": "X-Men (2004) #158"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/618/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/720",
+          "name": "X-Men (2004) #158"
+        }
+      },
+      {
+        "id": 620,
+        "title": "X-MEN (2004) #160",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/620",
+        "type": "cover",
+        "modified": "2017-02-23T12:12:09-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/620/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/620/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/620/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/620/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/762",
+              "name": "X-Men (2004) #160"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/620/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/762",
+          "name": "X-Men (2004) #160"
+        }
+      },
+      {
+        "id": 622,
+        "title": "X-MEN (2004) #161",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/622",
+        "type": "cover",
+        "modified": "2017-02-23T12:09:28-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/622/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/622/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/622/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/622/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/835",
+              "name": "X-Men (2004) #161"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/622/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/835",
+          "name": "X-Men (2004) #161"
+        }
+      },
+      {
+        "id": 624,
+        "title": "X-MEN (2004) #162",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/624",
+        "type": "cover",
+        "modified": "2017-02-23T12:51:58-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/624/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/624/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009164",
+              "name": "Avalanche"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+              "name": "Exodus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+              "name": "Juggernaut"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009474",
+              "name": "Nocturne"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+              "name": "Sabretooth"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 9
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/624/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/624/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/851",
+              "name": "X-Men (2004) #162"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/624/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/851",
+          "name": "X-Men (2004) #162"
+        }
+      },
+      {
+        "id": 626,
+        "title": "X-MEN (2004) #163",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/626",
+        "type": "cover",
+        "modified": "2017-02-23T14:08:39-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/626/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/626/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/626/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/626/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/930",
+              "name": "X-Men (2004) #163"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/626/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/930",
+          "name": "X-Men (2004) #163"
+        }
+      },
+      {
+        "id": 628,
+        "title": "X-MEN (2004) #165",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/628",
+        "type": "cover",
+        "modified": "2017-02-23T15:39:14-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/628/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13348",
+              "name": "Liquid! Color",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13146",
+              "name": "Danny Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/628/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/628/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1301",
+              "name": "X-Men: Day of the Atom (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/628/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1415",
+              "name": "X-Men (2004) #165"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1641",
+              "name": "X-Men: Day of the Atom (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/628/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1415",
+          "name": "X-Men (2004) #165"
+        }
+      },
+      {
+        "id": 630,
+        "title": "X-MEN (2004) #166",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/630",
+        "type": "cover",
+        "modified": "2017-02-23T16:07:45-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/630/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+              "name": "Chuck Austen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/630/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/630/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1400",
+              "name": "X-Men: Golgotha (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/630/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1514",
+              "name": "X-Men (2004) #166"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2175",
+              "name": "X-Men: Golgotha (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/630/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1514",
+          "name": "X-Men (2004) #166"
+        }
+      },
+      {
+        "id": 632,
+        "title": "X-MEN (2004) #167",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/632",
+        "type": "cover",
+        "modified": "2017-02-23T16:46:31-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/632/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+              "name": "Rus Wooton",
+              "role": "letterer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/632/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+              "name": "Emma Frost"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/632/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1400",
+              "name": "X-Men: Golgotha (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/632/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1614",
+              "name": "X-Men (2004) #167"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2175",
+              "name": "X-Men: Golgotha (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/632/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1614",
+          "name": "X-Men (2004) #167"
+        }
+      },
+      {
+        "id": 636,
+        "title": "X-MEN (2004) #169",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/636",
+        "type": "cover",
+        "modified": "2017-02-24T10:37:49-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/636/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13348",
+              "name": "Liquid! Color",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13146",
+              "name": "Danny Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/636/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+              "name": "Gambit"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/636/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1400",
+              "name": "X-Men: Golgotha (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/636/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1864",
+              "name": "X-Men (2004) #169"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2175",
+              "name": "X-Men: Golgotha (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/636/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1864",
+          "name": "X-Men (2004) #169"
+        }
+      },
+      {
+        "id": 638,
+        "title": "X-MEN (2004) #170",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/638",
+        "type": "cover",
+        "modified": "2017-02-24T11:26:04-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/638/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13348",
+              "name": "Liquid! Color",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13146",
+              "name": "Danny Miki",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/638/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+              "name": "Polaris"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/638/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1400",
+              "name": "X-Men: Golgotha (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/638/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1971",
+              "name": "X-Men (2004) #170"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2175",
+              "name": "X-Men: Golgotha (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/638/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1971",
+          "name": "X-Men (2004) #170"
+        }
+      },
+      {
+        "id": 652,
+        "title": "2 of 3 - House of Broken Dreams",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/652",
+        "type": "cover",
+        "modified": "2017-02-23T15:50:24-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/652/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/652/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+              "name": "Sentinel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/652/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1643",
+              "name": "Decimation: X-Men the Day After (2006)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/652/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4072",
+              "name": "Decimation: X-Men the Day After (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/3028",
+              "name": "X-Men (2004) #178"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/652/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/3028",
+          "name": "X-Men (2004) #178"
+        }
+      },
+      {
+        "id": 670,
+        "title": "X-MEN (2004) #186",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/670",
+        "type": "cover",
+        "modified": "2017-02-27T11:41:03-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/670/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/393",
+              "name": "Casey Jones",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+              "name": "Salvador Larroca",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+              "name": "Peter Milligan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+              "name": "Cory Petit",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+              "name": "Wil Quintana",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5973",
+              "name": "Vince Russel",
+              "role": "inker"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/670/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+              "name": "Beast"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+              "name": "Havok"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/670/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1644",
+              "name": "X-Men: Blood of Apocalypse (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/670/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4181",
+              "name": "X-Men (2004) #186"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4441",
+              "name": "X-Men: Blood of Apocalypse (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/670/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4181",
+          "name": "X-Men (2004) #186"
+        }
+      },
+      {
+        "id": 678,
+        "title": "X-MEN (2004) #190",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/678",
+        "type": "cover",
+        "modified": "2017-02-27T15:25:41-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/678/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/678/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+              "name": "Cyclops"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+              "name": "Iceman"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+              "name": "Mystique"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+              "name": "Rogue"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/678/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+              "name": "X-Men (2004 - 2007)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2709",
+              "name": "X-Men: Supernovas (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/678/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/4754",
+              "name": "X-Men (2004) #190"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/16216",
+              "name": "X-Men: Supernovas (Hardcover)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/678/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/4754",
+          "name": "X-Men (2004) #190"
+        }
+      },
+      {
+        "id": 736,
+        "title": "Uncanny X-Men (1963) #456",
+        "description": "\"ON ICE!\" Part 2 of 5! \r\nThe X-Men return to the Savage Land! Plus, the team gains a highly unexpected new member! The fabulous Alan Davis returns as the monthly penciler! ",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/736",
+        "type": "cover",
+        "modified": "2017-05-22T11:15:50-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/736/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/736/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/736/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+              "name": "Uncanny X-Men (1981 - 2011)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/736/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1664",
+              "name": "Uncanny X-Men (1981) #456"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/736/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1664",
+          "name": "Uncanny X-Men (1981) #456"
+        }
+      },
+      {
+        "id": 737,
+        "title": "2 of 5 - Savage Land",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/737",
+        "type": "story",
+        "modified": "2017-05-22T11:09:03-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/737/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+              "name": "Chris Claremont",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+              "name": "Alan Davis",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+              "name": "Mark Farmer",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+              "name": "Mike Marts",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+              "name": "Dean White",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/737/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+              "name": "Bishop"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+              "name": "Nightcrawler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+              "name": "Psylocke"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+              "name": "Rachel Grey"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009722",
+              "name": "X-23"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/737/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+              "name": "Uncanny X-Men (1981 - 2011)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1399",
+              "name": "Uncanny X-Men - The New Age Vol. 3: On Ice (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/737/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/1664",
+              "name": "Uncanny X-Men (1981) #456"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/2299",
+              "name": "Uncanny X-Men - The New Age Vol. 3: On Ice (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/737/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/1664",
+          "name": "Uncanny X-Men (1981) #456"
+        }
+      }
+    ]
+  }
+}

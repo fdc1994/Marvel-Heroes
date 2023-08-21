@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="image_view_description">Marvel Character</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_wait">Loading…</string>
+    <string name="app_main_logo">App Main Logo</string>
+    <string name="series">Series</string>
+    <string name="comics">Comics</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+    <string name="no_information">No Information</string>
+    <string name="no_server_connection">Unable to connect with Stark Industries.\nPlease try again!!</string>
+    <string name="fetching_information">Fetching Information...</string>
+    <string name="no_results_please_try_again">No Results, Please try again</string>
+    <string name="retry_connection">RETRY CONNECTION</string>
+    <string name="my_favourites">My Favourites</string>
+    <string name="load_more">Load More...</string>
+    <string name="heroes">Heroes</string>
+    <string name="no_more_heroes_search">No more Heroes, please refine your search</string>
+    <string name="no_more_comics_search">No more Comics, please refine your search</string>
+
+</resources>

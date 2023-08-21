@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_heroes"
+
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="always"
+        android:title="@string/heroes" />
+    <item
+        android:id="@+id/navigation_favorites"
+        android:icon="@drawable/ic_baseline_star_24"
+        app:showAsAction="always"
+        android:title="@string/my_favourites" />
+
+    <item
+        android:id="@+id/navigation_comics"
+
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        app:showAsAction="always"
+        android:title="@string/comics" />
+
+</menu>
